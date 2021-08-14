@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-js-070ac1d216e9b71621fd.js","mappings":"kIAUA,UARc,WACZ,OACE","sources":["webpack://gatsby-demo/./src/pages/index.js"],"sourcesContent":["import React from 'react'\n\nconst Index = () => {\n  return (\n    <div>\n      hi\n    </div>\n  )\n}\n\nexport default Index\n"],"names":[],"sourceRoot":""}
